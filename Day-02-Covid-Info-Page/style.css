@@ -1,0 +1,115 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.covid-background {
+    border-color: #0967d219;
+    border-width: 6px;
+    border-style: solid;
+    font-family: "Roboto";
+}
+
+.card-one {
+    font-size: 13px;
+    text-align: left;
+    padding: 15px;
+}
+
+.card-one-heading {
+    font-size: 18px;
+    color: #323f4b;
+}
+
+.card-two-image {
+    margin: 8px;
+
+}
+
+.card-two {
+    background-color: #0967d219;
+    border-radius: 10px;
+    margin: 14px;
+    padding: 7px;
+}
+
+.card-two-text {
+    margin: 6px;
+}
+
+.card-two-paragraph {
+    font-size: 13px;
+    color: #707070;
+    font-weight: 500;
+}
+
+.card-two-heading {
+    font-size: 20px;
+}
+
+.symptoms-heading {
+    font-size: 22px;
+    margin: 10px;
+}
+
+.symptoms-paragraph {
+    color: white;
+    font-weight: 500;
+}
+
+.symptoms {
+    font-size: 14px;
+}
+
+.dry-cough {
+    background-color: #3ebd93;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 12px;
+    height: 15vh;
+}
+
+.high-fever {
+    background-color: #e668a7;
+    border-radius: 10px;
+    padding: 12px;
+    margin: 10px;
+    height: 15vh;
+}
+
+.headache {
+    background-color: #a368fc;
+    border-radius: 10px;
+    padding: 12px;
+    margin: 10px;
+    height: 15vh;
+}
+
+.video-card {
+    background-color: #e12d3919;
+    border-radius: 10px;
+    margin: 14px;
+    padding: 7px;
+}
+
+.video-image {
+    margin: 4px;
+}
+
+.video {
+    font-size: 24px;
+    margin: 10px;
+}
+
+.video-heading {
+    font-size: 20px;
+}
+
+.video-paragraph {
+    font-size: 14px;
+    color: #707070;
+    font-weight: 500;
+}
+
+.btn-properties {
+    font-size: 11px;
+    background-color: #0967d2;
+    border-radius: 8px;
+}
