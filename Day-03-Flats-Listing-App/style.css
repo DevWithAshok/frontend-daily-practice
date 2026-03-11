@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.sunrise-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.homepage-content {
+    background-color: #ffffff;
+    border-radius: 5px;
+    text-align: center;
+    padding: 37px;
+}
+
+.heading1 {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.para1 {
+    color: #7b8794;
+    font-size: 15px;
+    font-family: "Bree Serif";
+}
+
+.button1 {
+    background-color: #f19116;
+    color: #ffffff;
+    border-width: 0px;
+    font-size: 10px;
+    border-radius: 5px;
+    width: 20vw;
+    padding: 7px;
+    font-family: "bree Serif";
+}
+
+.button2 {
+    background-color: #f19116;
+    color: #ffffff;
+    border-width: 0px;
+    font-size: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    width: 20vw;
+    padding: 7px;
+    font-family: "bree Serif";
+}
+
+.flat-container {
+    background-color: #ffffff;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    border-radius: 5px;
+}
+
+.first-slide {
+    background-color: #222222;
+}
+
+.first-slide1 {
+    padding: 20px;
+}
+
+.flat-image {
+    height: 160px;
+    width: 90px;
+}
+
+.heading2 {
+    color: #0f0e46;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: "bree Serif";
+}
+
+.heading3 {
+    color: #f19116;
+    margin-top: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "bree Serif";
+}
+
+.container {
+    margin: 15px;
+}
+
+.containers {
+    margin-bottom: 25px;
+}
+
+.image {
+    height: 35vh;
+    width: 100vw;
+}
+
+.location {
+    height: 20px;
+    width: 20px;
+}
+
+.para2 {
+    color: #6c6b70;
+    font-family: "bree Serif";
+    font-size: 12px;
+}
+
+.para3 {
+    color: #ffffff;
+    font-size: 18px;
+    font-family: "bree Serif";
+}
+
+.contents {
+    padding: 10px;
+}
